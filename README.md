@@ -7,4 +7,4 @@ These are my solutions to exercises from the class.
 *	P0 - Tutorial
 *	P1 - Search
 
-###Disclaimer: Please do not use my solutions to violate the Honor Code you may have agree to when signed up for edX course or the UC Berkeley Course.
+###Disclaimer: Please do not use my solutions to violate the Honor Code you agreed to when you signed up for the edX Course or the UC Berkeley Course.
